@@ -102,7 +102,7 @@ In this example we used the following robot joint coordinates [0,0,200,180,0,180
 
 
 ### PROGRAM :
-
+```
 def Prog1():
   
   #--------------------------
@@ -137,6 +137,7 @@ def Prog1():
   # End of main program
   
 Prog1()
+```
 
 
 
